@@ -15,7 +15,6 @@ Create a dataset that includes the following list of variables:
 - Picture
 - Title 
 - Citation total 
-- Citation by year
 - h-index 
 - i10-index
 
